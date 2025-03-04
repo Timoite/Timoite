@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I will put more things here soon...! Wait in Hope!
+I am Tim!
 
 <!--
 **Timoite/Timoite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
