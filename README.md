@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Tim Tan, currently studying Information and Computering Engineering in University of Cambridge.
+I am Tim Tan, currently studying Information and Computering Engineering in University of Cambridge. I have a huge passion in software development and machine learning. I also love making music.
 
 <!--
 **Timoite/Timoite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
