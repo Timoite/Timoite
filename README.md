@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Tim!
+I am Tim Tan, currently studying Information and Computering Engineering in University of Cambridge.
 
 <!--
 **Timoite/Timoite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
